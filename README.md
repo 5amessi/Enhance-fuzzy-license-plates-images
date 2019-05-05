@@ -2,10 +2,10 @@
 # Restore information in images and improve its quality.
 
 ## Problem definition 
-# When we resize an image to small dimension and resize it back to its original size we realize leak of information in the image, so we want to restore this information back to enhance quality of the image.
+When we resize an image to small dimension and resize it back to its original size we realize leak of information in the image, so we want to restore this information back to enhance quality of the image.
 
 ## Approaches
-# U-net architecture with CNN (Convolution neural network) layers.
+U-net architecture with CNN (Convolution neural network) layers.
 for more information about U-net https://en.wikipedia.org/wiki/U-Net , https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 
 # GAN architecture with CNN (Convolution neural network) layers.
