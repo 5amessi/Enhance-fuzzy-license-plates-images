@@ -2,6 +2,7 @@
 # Restore information in images and improve its quality.
 
 ## Problem definition 
+
 When we resize an image to small dimension and resize it back to its original size we realize leak of information in the image, so we want to restore this information back to enhance quality of the image.
 
 ## Approaches
