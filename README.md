@@ -31,8 +31,9 @@ https://github.com/SeyedHamidreza/car_plate_dataset.git
 # Network Details:
 * 16 Residual blocks used.
 
-![alt text](https://github.com/5amessi/Enhance-fuzzy-license-plates-images/blob/master/images/plat2/1.jpg)
+#Examples
 
+![alt text](https://github.com/5amessi/Enhance-fuzzy-license-plates-images/blob/master/images/plat2/1.jpg) ![alt text](https://github.com/5amessi/Enhance-fuzzy-license-plates-images/blob/master/images/plat2/2.jpg) ![alt text](https://github.com/5amessi/Enhance-fuzzy-license-plates-images/blob/master/images/plat2/4.jpg)
 
 
 
