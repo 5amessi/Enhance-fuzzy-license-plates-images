@@ -1,4 +1,4 @@
-# Enhance-image-quality-
+# Enhance-fuzzy-license-plates-image
 Restore information in images and improve its quality.
 
 ## Problem definition 
